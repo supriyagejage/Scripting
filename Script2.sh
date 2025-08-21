@@ -7,4 +7,5 @@ read b
 echo "Value of c"
 read c
 echo "Hello value of a is $a, value of b is $b and value of c is $c"
-
+echo "Im modifying Script2"
+#Im Supriya
